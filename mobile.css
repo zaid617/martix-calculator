@@ -1,0 +1,14 @@
+
+header{
+    font-size: 0.6em;
+}
+.subBox{
+    width: 150px;
+}
+.subBox a{
+    font-size: 0.8em;
+}
+.subBox a :hover{
+    padding-left: 7px;
+    padding-right: 7px;
+}

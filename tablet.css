@@ -1,0 +1,9 @@
+header{
+    font-size: 0.9em;
+}
+.subBox{
+    width: 200px;
+}
+.subBox > a{
+    font-size: 1em;
+}
